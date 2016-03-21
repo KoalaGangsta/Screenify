@@ -9,4 +9,4 @@ Possible upload targets and master servers:
 + Server: PHP (HTTP POST Upload for PHP)
 + Server: FreePascal (Native HTTP POST Upload for Linux/Windows/Mac OS)
 
-**Linux support planned in future but not sure to be implemented*
+**Linux **Client** support planned in future but not sure to be implemented*
